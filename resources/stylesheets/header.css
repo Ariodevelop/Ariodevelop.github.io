@@ -1,0 +1,9 @@
+header {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  padding: 48px 0px;
+}
+header h1{
+  color: var(--color);
+}
